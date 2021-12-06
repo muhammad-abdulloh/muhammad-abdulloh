@@ -1,16 +1,213 @@
-### Hi there 👋
+<!-- MORE https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
-<!--
-**clevercoderr/clevercoderr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3 align="center">
+    Welcome to David Shainidze's profile!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--ANIMATED WELCOME TEXT -->
+<p align="center">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg">
+        <img
+                src="https://readme-typing-svg.herokuapp.com/?lines=Python%20Engineer%20Developer;More%20than%20a%20year%20of%20experience;Always%20learning%20new%20things;%20A%20Self-confidence%20and%20self-motivated&center=true&width=380&height=45"></a>
+</p>
+
+
+## 🙋‍♂️ Connect with me
+
+<!-- Badges template - https://github.com/badges/shields -->
+<p align="center">
+    <a href="https://github.com/dsha256">
+        <img alt="Github"
+             src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/david-shainidze/">
+        <img alt="Linkedin"
+             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://stackoverflow.com/users/13871589/david-shainidze">
+        <img alt="Stackowerflow"
+             src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+    <a href="https://www.hackerrank.com/dsha256">
+        <img alt="Hackerrank"
+             src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+    <a href="https://www.kaggle.com/davidshainidze">
+        <img alt="Kaggle"
+             src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
+    <a href="https://discord.gg/tsTm3NX">
+        <img alt="Discord"
+             src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+    <a href="https://www.facebook.com/dsha256">
+        <img alt="Facebook"
+             src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+
+</p>
+
+
+## 📊 Github stats
+<p>
+    <a align="center" href="https://github-readme-stats.vercel.app/api?username=dsha256&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"><img alt="dsha256's Github Stats"
+                    src="https://github-readme-stats.vercel.app/api?username=dsha256&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+  <a align="center" href="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dsha256&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
+    <img alt="dsha256's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dsha256&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+</p>
+
+<p>
+  <a align="center" href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=dsha256&theme=monokai&column=8&no-frame=true&no-bg=true">
+  </a>
+</p>
+
+
+## 🛠️ My favorite tools
+
+### 👨‍💻 Programming Languages
+
+<p>
+    <a href="#">
+        <img alt="Python"
+             src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+    <a href="#">
+        <img alt="C"
+             src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>
+    <a href="#">
+        <img alt="C++"
+             src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
+    <a href="#">
+        <img alt="Java"
+             src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>
+    <a href="#">
+        <img alt="SQL"
+             src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"></a>
+</p>
+
+
+### 🧰 Frameworks and libraries
+
+<p>
+    <a href="#">
+        <img alt="NumPy"
+             src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
+    <a href="#">
+        <img alt="Pandas"
+             src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>
+    <a href="#">
+        <img alt="PyTorch"
+             src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/></a>
+    <a href="#">
+        <img alt="Django"
+             src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"></a>
+    <a href="#">
+        <img alt="OpenCV"
+             src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/></a>
+    <a href="#">
+        <img alt="Selenium"
+             src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/></a>
+</p>
+
+### 🗄️ Databases
+
+<p>
+    <a href="#">
+        <img alt="PostgreSQL"
+             src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+    <a href="#">
+        <img alt="SQLite"
+             src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
+    <a href="#">
+        <img alt="Oracle"
+             src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/></a>
+</p>
+
+### ☁ Cloud hosting
+<p>
+    <a href="#">
+        <img alt="Heroku"
+             src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/></a>
+    <a href="#">
+        <img alt="Azure"
+             src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white"/>
+    </a>
+    <a href="#">
+        <img alt="Repl.it"
+             src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=Repl.it&logoColor=white"/></a>
+    <a href="#">
+        <img alt="Digital Ocean"
+             src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white"></a>
+    <a href="#">
+        <img alt="Google Cloud"
+             src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
+    <a href="#"><img alt="" src=""></a>
+    <a href="#"><img alt="" src=""></a>
+    <a href="#"><img alt="" src=""></a>
+    <a href="#"><img alt="" src=""></a>
+</p>
+
+### 💻 Software and tools
+<p>
+    <a href="#">
+        <img alt="Docker"
+             src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
+    <a href="#">
+        <img alt="GIT"
+             src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+    <a href="#">
+        <img alt="Jupyter"
+             src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></a>
+    <a href="#">
+        <img alt="Conda"
+             src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"></a>
+    <a href="#">
+        <img alt="PyCharm"
+             src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"></a>
+    <a href="#">
+        <img alt="CLion"
+             src="https://img.shields.io/badge/CLion-143?style=for-the-badge&logo=clion&logoColor=black&color=black&labelColor=orange"></a>
+    <a href="#">
+        <img alt="Intelij IDEA"
+             src="https://img.shields.io/badge/IntelliJ%20IDEA-143?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=black&color=black&labelColor=yellow"></a>
+    <a href="#">
+        <img alt="Postman"
+             src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
+    <a href="#">
+        <img alt="NGINX" 
+             src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"></a>
+    <a href="#"><img alt="" src=""></a>
+    <a href="#"><img alt="" src=""></a>
+    <a href="#"><img alt="" src=""></a>
+    <a href="#"><img alt="" src=""></a>
+</p>
+
+### 💻 My favorite operating systems
+<p>
+    <a href="#"><img alt="Linux"
+                     src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+    <a href="#"><img alt="Ubuntu"
+                     src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+    <a href="#"><img alt="Debian"
+                     src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></a>
+    <a href="#"><img alt="Windows"
+                     src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+    <a href="#">
+        <img alt=""
+             src=""></a>
+    <a href="#">
+        <img alt=""
+             src=""></a>
+    <a href="#">
+        <img alt=""
+             src=""></a>
+</p>
+
+## 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="#">
+    <img title="🔥 Streak stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dsha256&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
+
+## 💻 Last month's activity
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href=""><img alt="dsha256's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dsha256&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+

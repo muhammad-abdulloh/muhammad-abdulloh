@@ -2,13 +2,13 @@
 
 
 <h3 align="center">
-    Welcome to David Shainidze's profile!
+    Welcome to Clever Coder's profile!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <!--ANIMATED WELCOME TEXT -->
 <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <a href="https://github.com/CleverCoder/readme-typing-svg">
         <img
                 src="https://readme-typing-svg.herokuapp.com/?lines=Python%20Engineer%20Developer;More%20than%20a%20year%20of%20experience;Always%20learning%20new%20things;%20A%20Self-confidence%20and%20self-motivated&center=true&width=380&height=45"></a>
 </p>

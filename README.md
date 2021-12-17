@@ -16,14 +16,14 @@
 
 ## 🙋‍♂️ Connect with me
 
-<!-- Badges template - https://github.com/badges/shields -->
+<!-- Badges template - https://github.com/clevercoderr -->
 <p align="center">
-    <a href="https://github.com/dsha256">
+    <a href="https://github.com/">
         <img alt="Github"
              src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/muhammadabdulloh-komilov/">
         <img alt="Linkedin"
-             src="https://www.linkedin.com/in/muhammadabdulloh-komilov/?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+             src="https://www.linkedin.com/in/linkedin/?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://stackoverflow.com/users/17122298/clever-coder">
         <img alt="Stackowerflow"
              src="https://stackoverflow.com/users/17122298/clever-coder?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
@@ -65,16 +65,16 @@
 <p>
     <a href="#">
         <img alt="C#"
-             src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+             src="https://img.shields.io/badge/C#-3776AB?style=for-the-badge&logo=C#&logoColor=white"></a>
     <a href="#">
         <img alt="C"
              src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>
     <a href="#">
         <img alt="Java"
-             src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
+             src="https://img.shields.io/badge/Java-%2300599C.svg?style=for-the-badge&logo=java&logoColor=white"/></a>
     <a href="#">
         <img alt="Python"
-             src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>
+             src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=python&logoColor=white"/></a>
     <a href="#">
         <img alt="SQL"
              src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"></a>
@@ -86,16 +86,16 @@
 <p>
     <a href="#">
         <img alt="ASP.NET"
-             src="https://img.shields.io/badge/ASP>NET-%23013243.svg?style=for-the-badge&logo=ASP>NET&logoColor=white"></a>
+             src="https://img.shields.io/badge/ASP.NET-%23013243.svg?style=for-the-badge&logo=ASP.NET&logoColor=white"></a>
     <a href="#">
         <img alt=".NET6"
-             src="https://img.shields.io/badge/.NET6-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>
+             src="https://img.shields.io/badge/.NET6-%23150458.svg?style=for-the-badge&logo=.NET6&logoColor=white"></a>
     <a href="#">
         <img alt="ASP.NET Core"
-             src="https://img.shields.io/badge/ASP.NET CORE-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/></a>
+             src="https://img.shields.io/badge/ASP.NET CORE-%23EE4C2C.svg?style=for-the-badge&logo=ASP.NET Core&logoColor=white"/></a>
     <a href="#">
-        <img alt="Entity Fraemwork"
-             src="https://img.shields.io/badge/Entity-Fraemwork-092E20?style=for-the-badge&logo=django&logoColor=green"></a>
+        <img alt="Entity%20Fraemwork"
+             src="https://img.shields.io/badge/Entity%20Fraemwork-092E20?style=for-the-badge&logo=Entity%20Fraemwork&logoColor=green"></a>
     <a href="#">
         <img alt="OpenCV"
              src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/></a>
@@ -112,7 +112,7 @@
              src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
     <a href="#">
         <img alt="SQL"
-             src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sql&logoColor=white"/></a>
+             src="https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sql&logoColor=white"/></a>
     <a href="#">
         <img alt="Oracle"
              src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/></a>

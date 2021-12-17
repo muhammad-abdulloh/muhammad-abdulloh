@@ -65,7 +65,7 @@
 <p>
     <a href="#">
         <img alt="C#"
-             src="https://img.shields.io/badge/C#-3776AB?style=for-the-badge&logo=C#&logoColor=white"></a>
+             src="https://img.shields.io/badge/csharp-%2300599C.svg?style=for-the-badge&logo=csharp&logoColor=white"></a>
     <a href="#">
         <img alt="C"
              src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>

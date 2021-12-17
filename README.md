@@ -23,11 +23,11 @@
              src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/muhammadabdulloh-komilov/">
         <img alt="Linkedin"
-             src="https://www.linkedin.com/in/linkedin/?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://stackoverflow.com/users/17122298/clever-coder">
         <img alt="Stackowerflow"
-             src="https://stackoverflow.com/users/17122298/clever-coder?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-<!--     <a href="https://www.hackerrank.com/dsha256">
+             src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+     <a href="https://www.hackerrank.com/dsha256">
         <img alt="Hackerrank"
              src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
     <a href="https://www.kaggle.com/davidshainidze">
@@ -35,10 +35,10 @@
              src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
     <a href="https://discord.gg/tsTm3NX">
         <img alt="Discord"
-             src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> -->
+             src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
     <a href="https://www.facebook.com/dsha256">
         <img alt="Facebook"
-             src="https://www.facebook.com/profile.php?id=100068970307814?style=for-the-badge&logo=facebook&logoColor=white"></a>
+             src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 
 </p>
 

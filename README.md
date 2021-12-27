@@ -193,19 +193,6 @@
                      src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
     <a href="#"><img alt="Debian"
                      src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></a>
-
-    
-
-    
-    <a href="#">
-        <img alt=""
-             src=""></a>
-    <a href="#">
-        <img alt=""
-             src=""></a>
-        <a href="#">
-        <img alt=""
-             src=""></a>
     
 </p>
 

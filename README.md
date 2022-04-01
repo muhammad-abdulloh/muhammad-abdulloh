@@ -70,9 +70,6 @@
         <img alt="C"
              src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>
     <a href="#">
-        <img alt="Java"
-             src="https://img.shields.io/badge/Java-%2300599C.svg?style=for-the-badge&logo=java&logoColor=white"/></a>
-    <a href="#">
         <img alt="Python"
              src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=python&logoColor=white"/></a>
     <a href="#">
@@ -94,7 +91,7 @@
         <img alt="ASP.NET Core"
              src="https://img.shields.io/badge/ASP.NET CORE-%23EE4C2C.svg?style=for-the-badge&logo=ASP.NET Core&logoColor=white"/></a>
     <a href="#">
-        <img alt="Entity%20Fraemwork"
+        <img alt="Entity%20Fraemwork%20Core"
              src="https://img.shields.io/badge/Entity%20Fraemwork-092E20?style=for-the-badge&logo=Entity%20Fraemwork&logoColor=green"></a>
     <a href="#">
         <img alt="OpenCV"
@@ -111,7 +108,7 @@
         <img alt="PostgreSQL"
              src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
     <a href="#">
-        <img alt="SQL"
+        <img alt="SQL Server"
              src="https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sql&logoColor=white"/></a>
     <a href="#">
         <img alt="Oracle"
@@ -163,20 +160,11 @@
         <img alt="PyCharm"
              src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"></a>
     <a href="#">
-        <img alt="CLion"
-             src="https://img.shields.io/badge/CLion-143?style=for-the-badge&logo=clion&logoColor=black&color=black&labelColor=orange"></a>
-    <a href="#">
-        <img alt="Intelij IDEA"
-             src="https://img.shields.io/badge/IntelliJ%20IDEA-143?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=black&color=black&labelColor=yellow"></a>
-    <a href="#">
         <img alt="Vsual Studio"
              src="https://img.shields.io/badge/Visual%20Studio-143?style=for-the-badge&logo=Visual%20Studio&logoColor=black&color=black&labelColor=yellow"></a>
     <a href="#">
         <img alt="Postman"
              src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
-    <a href="#">
-        <img alt="NGINX" 
-             src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"></a>
     <a href="#"><img alt="" src=""></a>
     <a href="#"><img alt="" src=""></a>
     <a href="#"><img alt="" src=""></a>
@@ -193,6 +181,8 @@
                      src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
     <a href="#"><img alt="Debian"
                      src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></a>
+    <a href="#"><img alt="Kali"
+                     src="https://img.shields.io/badge/Kalai-A81D33?style=for-the-badge&logo=kali&logoColor=white"></a>
     
 </p>
 

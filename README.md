@@ -182,7 +182,7 @@
     <a href="#"><img alt="Debian"
                      src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></a>
     <a href="#"><img alt="Kali"
-                     src="https://img.shields.io/badge/Kalai-A81D33?style=for-the-badge&logo=kali&logoColor=white"></a>
+                     src="https://img.shields.io/badge/Kali-A81D33?style=for-the-badge&logo=kali&logoColor=white"></a>
     
 </p>
 

@@ -57,7 +57,6 @@
   </a>
 </p>
 
-
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming Languages

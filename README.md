@@ -28,7 +28,7 @@
     <a href="https://stackoverflow.com/users/17122298/clever-coder">
         <img alt="Stackowerflow"
              src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-     <a href="https://www.hackerrank.com/clevercoderr">
+<!--      <a href="https://www.hackerrank.com/clevercoderr">
         <img alt="Hackerrank"
              src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
     <a href="https://www.kaggle.com/clevercoderr">
@@ -40,7 +40,7 @@
     <a href="https://www.facebook.com/clevercoderr">
         <img alt="Facebook"
              src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-    <a href="https://www.facebook.com/profile.php?id=100068970307814">
+    <a href="https://www.facebook.com/profile.php?id=100068970307814"> -->
 </p>
 
 

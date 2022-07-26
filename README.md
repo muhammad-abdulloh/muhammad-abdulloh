@@ -18,7 +18,7 @@
 
 
 <p align="center"> 
-<a href ="https://open.spotify.com/playlist/23GnXe29BDb6g5je8Khibh" target="spotify"> <img src="https://spotify-github-aditya.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" width="300" /> </a> </p>
+<a href ="https://open.spotify.com/playlist/23GnXe29BDb6g5je8Khibh" target="spotify"> <img src="https://open.spotify.com/playlist/23GnXe29BDb6g5je8Khibh?background_color=0d1117&border_color=ffffff" width="300" /> </a> </p>
 
 
 
